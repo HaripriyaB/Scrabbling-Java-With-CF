@@ -365,8 +365,6 @@ The best and the only way to join the project is by opening an issue or solving 
 ## Contact Us 
 > If you have any doubts regarding the projects or need help kindly write to us or join on the following links.
 - **Email ID -vbsquad@gmail.com**  
-- **Discord Group-**
-- **Slack Group-**
 
 # Guidelines :point_right:
 - Before you join the development, please run and test the code developed by you on your local machine by keeping in all the checks and compiling it properly.  Check the code completely and then create a pull request.
